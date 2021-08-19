@@ -1,8 +1,8 @@
 - Hi, I’m Gabriel Berti!
 - I’m currently studying "Sistemas de Informação" in Universidade Tecnológica Federal do Paraná (UTFPR)
-- How to reach me:
-  Email: gabrielberti2010@gmail.com;
-  Linkedin: https://www.linkedin.com/in/gabriel-b%C3%A9rti-30126b197;
+- How to reach me:\
+  Email: gabrielberti2010@gmail.com;\
+  Linkedin: https://www.linkedin.com/in/gabriel-b%C3%A9rti-30126b197;\
   
 
 <!---
